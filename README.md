@@ -1,1 +1,1 @@
-# Assignment-8-Matplotlib
+The purpose of this project was to create three graphs for an iris dataset and three graphs for a loan dataset. I used plt.subplots to create 3 graphs, .figure to open the plot, .scatter to create a scatter plot, .bar to create a bar graph, .plot to create a line plot, .xlabel to create a label for the x-axis, .ylabel to create a label for the y-axis, .title to create a title for the graph, and .close to close the graph. I did not add any limitations to the project.
